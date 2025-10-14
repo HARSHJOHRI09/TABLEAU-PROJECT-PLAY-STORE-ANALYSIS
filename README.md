@@ -4,7 +4,7 @@ REPORT LINK:https://public.tableau.com/views/PLAYSTOREANALYSISDASHBOARD/Dashboar
 NOTE: FILTER ARE NOT APPLY IN THIS REPORT IF YOU WANT APPLY SO U CAN EDIT THIS AND CHANGE INTO DESKTOP VIEW 
 
 NOTE2: I have added some main charts to the dashboard, but if you want to see more charts, I have created them in each sheet as well. You can use them for analysis.
-Also, the link to my report is provided above — it contains all the charts, including the sheet-level ones and the main charts in the dashboard.
+Also, the link to my report is provided above IN README SECTION — it contains all the charts, including the sheet-level ones and the main charts in the dashboard.
 
 📱 Play Store Analysis Dashboard
 A comprehensive Tableau dashboard to uncover trends and insights from Play Store app data!
